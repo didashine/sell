@@ -1,11 +1,9 @@
 <template>
-  <div id="header">
-    我是header
-  </div>
+  <div>i am ratings</div>
 </template>
 
 <script type="ecmascript-6">
-  export default{};
+  export default {};
 </script>
 
 <style lang="stylus" rel="stylesheet/stylus">
