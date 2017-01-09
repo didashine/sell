@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="146816c0-c200-45fc-989e-227b09a38285" name="默认的" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/App.vue" afterPath="$PROJECT_DIR$/src/App.vue" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/seller/seller.vue" afterPath="$PROJECT_DIR$/src/components/seller/seller.vue" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
     </list>
     <ignored path="sell.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -28,7 +26,7 @@
       <file leaf-file-name="data.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/data.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0">
+            <state vertical-scroll-proportion="0.0">
               <caret line="50" column="11" selection-start-line="50" selection-start-column="11" selection-end-line="50" selection-end-column="11" />
               <folding>
                 <element signature="e#1471#39456#0" expanded="false" />
@@ -75,11 +73,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.18947369">
-              <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+            <state vertical-scroll-proportion="-5.25">
+              <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.26732674">
+              <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -144,6 +152,7 @@
         <option value="$PROJECT_DIR$/src/components/seller/seller.vue" />
         <option value="$PROJECT_DIR$/src/common/js/util.js" />
         <option value="$PROJECT_DIR$/src/App.vue" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -354,8 +363,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="false" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1727672" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -401,6 +410,9 @@
       <window_info id="找到" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
     </layout-to-restore>
   </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.gitignore" />
+  </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
       <collection />
@@ -417,11 +429,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/components/star/star24_on@2x.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/star/star24_on@3x.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -712,9 +719,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -722,34 +726,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.044554457">
           <caret line="120" column="16" selection-start-line="120" selection-start-column="16" selection-end-line="120" selection-end-column="16" />
-          <folding>
-            <marker date="1483855598047" expanded="true" signature="2598:4263" placeholder="{...}" />
-            <marker date="1483855598047" expanded="true" signature="2611:2663" placeholder="{...}" />
-            <marker date="1483855598047" expanded="true" signature="2627:2657" placeholder="{...}" />
-            <marker date="1483855598047" expanded="true" signature="2676:2814" placeholder="{...}" />
-            <marker date="1483855598047" expanded="true" signature="2691:2807" placeholder="{...}" />
-            <marker date="1483855598047" expanded="true" signature="2718:2796" placeholder="{...}" />
-            <marker date="1483855598047" expanded="true" signature="2830:2913" placeholder="{...}" />
-            <marker date="1483855598047" expanded="true" signature="2853:2907" placeholder="{...}" />
-            <marker date="1483855598047" expanded="true" signature="2929:3019" placeholder="{...}" />
-            <marker date="1483855598047" expanded="true" signature="3032:3120" placeholder="{...}" />
-            <marker date="1483855598047" expanded="true" signature="3051:3114" placeholder="{...}" />
-            <marker date="1483855598047" expanded="true" signature="3134:3191" placeholder="{...}" />
-            <marker date="1483855598047" expanded="true" signature="3206:4210" placeholder="{...}" />
-            <marker date="1483855598047" expanded="true" signature="3236:3412" placeholder="{...}" />
-            <marker date="1483855598047" expanded="true" signature="3271:3300" placeholder="{...}" />
-            <marker date="1483855598047" expanded="true" signature="3434:3625" placeholder="{...}" />
-            <marker date="1483855598047" expanded="true" signature="3462:3567" placeholder="{...}" />
-            <marker date="1483855598047" expanded="true" signature="3518:3555" placeholder="{&quot;click&quot;: true...}" />
-            <marker date="1483855598047" expanded="true" signature="3573:3617" placeholder="{...}" />
-            <marker date="1483855598047" expanded="true" signature="3645:4204" placeholder="{...}" />
-            <marker date="1483855598047" expanded="true" signature="3677:4196" placeholder="{...}" />
-            <marker date="1483855598047" expanded="true" signature="3900:4184" placeholder="{...}" />
-            <marker date="1483855598047" expanded="true" signature="3935:4111" placeholder="{...}" />
-            <marker date="1483855598047" expanded="true" signature="4002:4095" placeholder="{&quot;scrollX&quot;: true...}" />
-            <marker date="1483855598047" expanded="true" signature="4117:4172" placeholder="{...}" />
-            <marker date="1483855598047" expanded="true" signature="4228:4259" placeholder="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -777,82 +753,21 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding>
-            <element signature="e#963#3458#2" expanded="true" />
-            <element signature="e#3620#10111#2" expanded="true" />
-            <element signature="e#10580#13007#2" expanded="true" />
-            <element signature="e#13125#16336#2" expanded="true" />
-            <element signature="e#16413#18880#2" expanded="true" />
-            <element signature="e#18998#22265#2" expanded="true" />
-            <element signature="e#22343#24890#2" expanded="true" />
-            <element signature="e#25009#28452#2" expanded="true" />
-            <element signature="e#28528#31195#2" expanded="true" />
-            <element signature="e#31312#34971#2" expanded="true" />
-            <element signature="e#35047#37710#2" expanded="true" />
-            <element signature="e#37827#41342#2" expanded="true" />
-            <element signature="e#42126#44473#2" expanded="true" />
-            <element signature="e#44629#49808#2" expanded="true" />
-            <element signature="e#51802#53949#2" expanded="true" />
-            <element signature="e#54093#58216#2" expanded="true" />
-            <element signature="e#58319#60378#2" expanded="true" />
-            <element signature="e#60522#64725#2" expanded="true" />
-            <element signature="e#64829#66932#2" expanded="true" />
-            <element signature="e#67077#71660#2" expanded="true" />
-            <element signature="e#71762#73877#2" expanded="true" />
-            <element signature="e#74020#78883#2" expanded="true" />
-            <element signature="e#78985#81128#2" expanded="true" />
-            <element signature="e#81271#86038#2" expanded="true" />
-            <element signature="e#86726#88773#2" expanded="true" />
-            <element signature="e#88861#91336#2" expanded="true" />
-            <element signature="e#91385#93804#2" expanded="true" />
-            <element signature="e#93894#97929#2" expanded="true" />
-            <element signature="e#97977#99996#2" expanded="true" />
-            <element signature="e#100085#102532#2" expanded="true" />
-            <element signature="e#102721#104580#2" expanded="true" />
-            <element signature="e#104668#106879#2" expanded="true" />
-            <element signature="e#106928#109039#2" expanded="true" />
-            <element signature="e#109129#112428#2" expanded="true" />
-            <element signature="e#112476#114319#2" expanded="true" />
-            <element signature="e#114408#116563#2" expanded="true" />
-            <element signature="e#116752#118399#2" expanded="true" />
-            <element signature="e#118487#120350#2" expanded="true" />
-            <element signature="e#120399#122226#2" expanded="true" />
-            <element signature="e#122316#124847#2" expanded="true" />
-            <element signature="e#124895#126550#2" expanded="true" />
-            <element signature="e#126639#128478#2" expanded="true" />
-            <element signature="e#129228#131987#2" expanded="true" />
-            <element signature="e#132094#135717#2" expanded="true" />
-            <element signature="e#135783#138482#2" expanded="true" />
-            <element signature="e#138589#142088#2" expanded="true" />
-            <element signature="e#142155#143950#2" expanded="true" />
-            <element signature="e#144058#146841#2" expanded="true" />
-            <element signature="e#146906#148709#2" expanded="true" />
-            <element signature="e#148815#151610#2" expanded="true" />
-            <element signature="e#151675#154546#2" expanded="true" />
-            <element signature="e#154652#158495#2" expanded="true" />
-            <element signature="e#176103#178262#2" expanded="true" />
-            <element signature="e#178365#183124#2" expanded="true" />
-            <element signature="e#183186#185281#2" expanded="true" />
-            <element signature="e#185384#189999#2" expanded="true" />
-            <element signature="e#190062#191993#2" expanded="true" />
-            <element signature="e#192097#195400#2" expanded="true" />
-            <element signature="e#195461#197420#2" expanded="true" />
-            <element signature="e#197522#200897#2" expanded="true" />
-            <element signature="e#200958#203153#2" expanded="true" />
-            <element signature="e#203255#208458#2" expanded="true" />
-            <element signature="e#210060#213063#2" expanded="true" />
-            <element signature="e#213068#216077#1" expanded="true" />
-            <element signature="e#216106#218874#1" expanded="true" />
-            <element signature="e#218894#221761#1" expanded="true" />
-            <element signature="e#221777#225338#1" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.18947369">
-          <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+        <state vertical-scroll-proportion="-5.25">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.26732674">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
           <folding />
         </state>
       </provider>
